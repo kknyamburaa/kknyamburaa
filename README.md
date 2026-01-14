@@ -1,4 +1,4 @@
-- 👋 Hi, I’m nyamburaa
+- 👋 Hi, I’m nyamburaa.
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning front end development
 - 📫 How to reach me nyamburae682@gmail.com
