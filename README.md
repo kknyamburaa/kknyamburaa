@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning front end dev
 - 📫 How to reach me nyamburae682@gmail.com
-- 😄 Pronouns: she
+- 😄 Pronouns: her
 - ⚡ Fun fact: brick by brick everyday is a learning day
 
 <!---
