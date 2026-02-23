@@ -1,6 +1,6 @@
 - 👋 Hi, I’m nyamburaa.
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning front end dev
+- 🌱 I’m currently learning front end dev oper
 - 📫 How to reach me nyamburae682@gmail.com
 - 😄 Pronouns: her
 - ⚡ Fun fact: brick by brick everyday is a learning day
