@@ -1,4 +1,4 @@
-Esther Nyambura
+👋 Hi, I'm Esther Nyambura
 
 Aspiring Full-Stack Developer passionate about building practical web applications and learning modern software engineering.
 
@@ -32,24 +32,9 @@ Currently studying:
 
 🛠 Tech Stack
 
-Backend
-
-* Laravel
-* PHP
-* MySQL
-
-Frontend
-
-* HTML
-* CSS
-* JavaScript
-
-Tools
-
-* Git & GitHub
-* Docker
-* Laravel Sail
-* VS Code
+Backend - Laravel  * PHP  * MySQL
+Frontend - HTML * CSS * JavaScript
+Tools - Git & GitHub * Docker * Laravel Sail * VS Code
 
 🌱 Goals for 2026
 
