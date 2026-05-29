@@ -33,7 +33,9 @@ Currently studying:
 🛠 Tech Stack
 
 Backend - Laravel  * PHP  * MySQL
+
 Frontend - HTML * CSS * JavaScript
+
 Tools - Git & GitHub * Docker * Laravel Sail * VS Code
 
 🌱 Goals for 2026
