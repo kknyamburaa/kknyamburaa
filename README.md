@@ -20,14 +20,6 @@ A RESTful API built with Laravel featuring:
 * API testing
 * Docker with Laravel Sail
 
-Frontend Practice Projects
-
-Building responsive interfaces using:
-
-* HTML
-* CSS
-* JavaScript
-
 Learning Journey
 
 Currently studying:
@@ -67,11 +59,6 @@ Tools
 * Learn React and TypeScript
 * Become industry-ready through consistent projects
 
-📫 Connect With Me
-
-* GitHub: kknyamburaa
-* Email: [nyamburae682@gmail.com](mailto:nyamburae682@gmail.com)
-* Linkedln : Nyambura Esther
 
 
 > “Brick by brick, every day is a learning day.”
