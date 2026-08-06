@@ -1,4 +1,4 @@
-Hello there, I'm Esther Nyambura
+Hello, I'm Esther Nyambura
 
 Aspiring Full-Stack Developer passionate about building practical web applications and learning modern software engineering.
 
