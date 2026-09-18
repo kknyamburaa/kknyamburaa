@@ -1,4 +1,4 @@
-Hello guys, I am Esther Nyambura
+Hello, I am Esther Nyambura
 
 Aspiring Full-Stack Developer passionate about building practical web applications and learning modern software engineering.
 
@@ -14,7 +14,7 @@ Frontend - HTML * CSS * JavaScript
 
 Tools - Git & GitHub * Docker * Laravel Sail * VS Code
 
-🌱 Goals 2026
+🌱 Goals for 2026
 
 * Build and deploy full-stack applications
 * Contribute to open-source projects
