@@ -2,7 +2,7 @@ Hello, I am Esther Nyambura
 
 Aspiring Full-Stack Developer passionate about building practical web applications and learning modern software engineering.
 
-Currently focused on Laravel, PHP, JavaScript, HTML/CSS, Git & GitHub, and backend API development. I enjoy learning by building projects step by step and improving my problem-solving skills every day.
+Currently focused on Laravel, PHP, JavaScript, HTML/CSS and backend API development. I enjoy learning by building projects step by step and improving my problem-solving skills every day.
 
 Based in Kenya
 
