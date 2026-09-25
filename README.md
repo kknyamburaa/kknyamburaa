@@ -18,7 +18,7 @@ Tools - Git & GitHub * Docker * Laravel Sail * VS Code
 
 * Build and deploy full-stack applications
 * Contribute to open-source projects
-* Strengthen backend engineering skills
+* Strengthen backend engineering skills using laravel
 * Learn React and TypeScript
 * Become industry-ready through consistent projects
 
